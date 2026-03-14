@@ -1,0 +1,29 @@
+<svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background -->
+  <rect width="300" height="120" fill="#7b2d2d" rx="10"/>
+
+  <!-- decorative line -->
+  <line x1="40" y1="60" x2="120" y2="60" stroke="#e7c9a5" stroke-width="2"/>
+  <line x1="180" y1="60" x2="260" y2="60" stroke="#e7c9a5" stroke-width="2"/>
+
+  <!-- title -->
+  <text x="150" y="55"
+        font-size="32"
+        text-anchor="middle"
+        fill="#f4e6d5"
+        font-family="Georgia, serif"
+        font-weight="bold">
+        THE WOODS
+  </text>
+
+  <!-- subtitle -->
+  <text x="150" y="85"
+        font-size="12"
+        text-anchor="middle"
+        fill="#e7c9a5"
+        font-family="Arial">
+        BAKERY • CAFÉ • RESTAURANT
+  </text>
+
+</svg>
